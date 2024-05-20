@@ -10,7 +10,6 @@ External Issues: Some scratches due to daily use
 
 Last PMS: July 2023
 
-Selling Price: 650,000
 Contact Number: 09176475551
 
 More Details
