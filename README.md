@@ -1,11 +1,11 @@
 # Montero Sport For Sale
 
-Car Manufacturer: Mitsubishi
-Model: Montero Sport
+Make: Mitsubishi
+Model: Montero Sport GLS SE 4X4
 Model Year: 2009
-Mileage: 97000 KM
-PlateNumber: NQC202
-Internal Issues: None
+Mileage: 108000 KM
+Plate Number: NCQ202
+Internal Issues: Minor electricals. some passenger signal lights not working. 
 External Issues: Some scratches due to daily use
 
 Last PMS: July 2023
@@ -14,9 +14,7 @@ Contact Number: 09176475551
 
 More Details
 
-- Car bought with around 80K Mileage in 2020 so only around 17K mileage was added in 3 years
-- After buying, Had all fluids changed at Kirsten Autoworks (Engine Oil, ATF, Brake Fluid, Power Steering, Differential Fluid)
-- Battery replaced 2 years ago. Car not really used much so it should still hold fine
+- Last PMS at Zix performance last September 2025
 - Some Scratches and Dents over the course of its ownership.
 
 ## Upgrades
@@ -24,21 +22,16 @@ More Details
 - Opposite Lock Front Bumper
 - Opposite Lock Side Rails
 - Opposite Lock Rock Sliders
-
-- SR Performance Full Flat Roof Rack
-- SR Performance Awning Tent
-- Tow Hitch
 - SR Recovery Board
 - SR High Lift Jack w/ SR Mount- Js Panhard
 - Ralliart Skidplate
 
-- HiD / Led Bar / Led Round Foglights/ square rear light *All Working
-- 4" Inches Amada Extreme Dropkit
-- Ironman Coil Springs
-- Profender Suspension
-- 17s Overland Rims w/ Falken Wildpeak AT Tires 285/70/17 (bought 2022, makapal pa.)
-- Borla Full Exhaust (From Turbo, Down Pipe, Mid Pipe to Tip)
-- Raptor Coated Roofrack, Side Rails, Rock Sliders
+- 2-inch lift
+- Ironman Nitrogas Shocks
+- Dobinson Coil Springs
+- Hardrace Upper Control Arm
+- 17s Overland Rims w/ Falken Wildpeak AT Tires 285/70/17
+- Borla Full Exhaust
 
 - Seatmate Leather Seat Wraps
 - Xiaomi Front and Rear Dashcam with Parking mode
