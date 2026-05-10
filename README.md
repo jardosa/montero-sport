@@ -3,7 +3,7 @@
 Car Manufacturer: Mitsubishi
 Model: Montero Sport
 Model Year: 2009
-Mileage: 104xxx KM
+Mileage: 106xxx KM
 PlateNumber: NQC202
 Internal Issues: None
 External Issues: Some scratches due to daily use
