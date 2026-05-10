@@ -11,7 +11,7 @@ Registration Updated for Year 2026
 
 Last Oil Change: September 2025
 
-Selling Price: 500000
+Selling Price: 450000
 Contact Number: 09176475551
 
 More Details
@@ -88,3 +88,12 @@ Did you offroad this?
 Is 4x4 Working?
 
 - Yes it's working along with 4Hi and 4Lo (for moderate and difficult offroad trails respectively)
+
+Issues 
+
+- Passenger side sidemirror turn light not working
+- Foglights dim (might need replacement)
+- Passenger bullbar turn light not working
+- some minor rust and scratches (expected of its age)
+
+Overall, a properly maintained vehicle engine and suspension wise and tested for long drives.
