@@ -11,7 +11,8 @@ Registration Updated for Year 2026
 
 Last Oil Change: September 2025
 
-Selling Price: 450000
+Selling Price: 500000
+
 Contact Number: 09176475551
 
 More Details
@@ -41,16 +42,16 @@ More Details
 
 Recent Maintenance and Upgrades
 
-Upgrades c/o J4G Autoworks (July 2024)
+Upgrades c/o J4G Autoworks Worth 97K  (July 2024)
 - 1 set Ironman Nitrogas Shocks
 - 2 pairs Dobinson Coil Springs
 - 1 pair SR Stablink
 - 1 pair Hardrace Upper Control Arm
 - 1 set Hubcentric Rings
 - 1 set Wheel Spacers
-Worth 97K 
 
-OEM Parts replaced c/o J4G Autoworks (July 2024)
+
+OEM Parts replaced c/o J4G Autoworks Worth 60K (July 2024)
 - 2x Knuckle Arm
 - 2x Lower Balljoint
 - 2x Rear stablink w/ bushings
@@ -60,20 +61,19 @@ OEM Parts replaced c/o J4G Autoworks (July 2024)
 - 2x Spring Rubber
 - 2x Upper Carm Bump Step
 - 1x Axle boots
-Worth 60K
 
-Maintenance c/o Zix performance (Sept 6 2025)
+
+
+Maintenance c/o Zix performance Worth around 21k (Sept 6 2025)
 - Change oil and oil filter
 - 3 Belt Set
 - 4x4 solenoid replace
-Worth around 21k
 
-Airconditioning cleaning and repair (Feb 2026)
+Airconditioning cleaning and repair Worth 23K (Feb 2026)
 - Compressor Pulley and bearing replace
 - Auxilliary Fan
 - Evaporator
 - Freon refill
-Worth 23K
 
 ## FAQs
 
